@@ -1,0 +1,25 @@
+#container {
+  width: 90%;
+  height: 800px;
+  overflow: auto;
+  border: 1px black solid;
+  margin-left: 5%;
+  margin-top: 5%;
+}
+
+#top {
+  background-color: aqua;
+}
+
+#middle {
+  background-color: pink;
+}
+
+#bottom {
+  background-color: grey;
+}
+
+.item {
+  width: 100%;
+  border-bottom: 2px solid red;
+}
